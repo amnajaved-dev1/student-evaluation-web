@@ -113,7 +113,8 @@ university_portal/
 
 ## 🖼️ Screenshots
 
-are attached in the link 
+## All the detail are mentioned here in the link
+https://amnajaved-dev1.github.io/student-evaluation-web/ 
 
 ## 🚧 Limitations & Future Enhancements
 
