@@ -113,15 +113,7 @@ university_portal/
 
 ## 🖼️ Screenshots
 
-*(Add screenshots here — Login page, Admin Analytics, Student Dashboard, Teacher Attendance, etc. Drag them into a `/screenshots` folder and reference them like below:)*
-
-```md
-![Login](screenshots/login.png)
-![Admin Analytics](screenshots/admin-analytics.png)
-![Student Dashboard](screenshots/student-dashboard.png)
-```
-
----
+are attached in the link 
 
 ## 🚧 Limitations & Future Enhancements
 
@@ -135,13 +127,8 @@ university_portal/
 
 Built as a Web Engineering course project at Fatima Jinnah Women University.
 
-| Name | Roll No. |
-|---|---|
-| Ibtisam | BCS-042 |
-| Amna Javed | BCS-009 |
-| Ayesha | BCS-022 |
 
-**Course:** Web Engineering · **Submitted to:** Ma'am Qurat
+**Course:** Web Engineering ·
 
 ---
 
